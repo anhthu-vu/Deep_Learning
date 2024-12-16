@@ -1,0 +1,1 @@
+In this practical session, I implemented different variants of global attention model. The models were then trained on the IMDB dataset containing 50,000 comments from the Internet Movie Database (IMDb). The words were embedded using the Glove embedding model. The goal is to classify a comment as positive (pos) or negative (neg)

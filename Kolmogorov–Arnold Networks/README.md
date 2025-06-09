@@ -1,0 +1,1 @@
+In this mini project, we explored Kolmogorov-Arnold Networks (KANs), introduced by Z. Liu in [this paper](https://arxiv.org/abs/2404.19756), a potential altenative of MLPs for scientific application due to its higher level of interpretability, on different tasks inclusing function fitting, image fitting, and classification.
